@@ -3,16 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.lagranpizza;
+package lagranpizza;
 
 /**
  *
  * @author Cristian Rodríguez
  */
-public class Main {
+public class LaGranPizza {
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
-        LaGranPizza laGranPizza = new LaGranPizza();
-        laGranPizza.orderPizza();
+        // TODO code application logic here
     }
+    
 }
